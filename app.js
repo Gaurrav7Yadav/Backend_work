@@ -108,6 +108,8 @@ app.delete('/products/:id', (req, res) => {
 
 
 // 1. Create an order
+//STRETCH GOAL:  It also handles concurrent order creation to prevent race conditions when orders are placed.
+
 app.post('/orders', (req, res) => {
     const { products } = req.body; 
     if (!products || !products.length) {
