@@ -130,27 +130,27 @@ Server is running on http://localhost:3000
 
 #### **Products**
 1. **Create Product**: `POST /products`
-![image](https://github.com/user-attachments/assets/1b64f9f3-66e6-4c29-8935-57de1274fe6a)
+![image](https://github.com/user-attachments/assets/cb1efc40-b95d-4b74-af77-02325a64740e)
 
 3. **Update Product**: `PUT /products/:id`
-![image](https://github.com/user-attachments/assets/00579516-a985-4daf-aa3e-97453612b331)
+![image](https://github.com/user-attachments/assets/c1a2a4cb-8fd2-4272-8a37-24f79c75c583)
 
 5. **List Products**: `GET /products?page=1&limit=10&search=term`
-![image](https://github.com/user-attachments/assets/70039496-79c0-48dd-8616-12b77dd8f198)
+![image](https://github.com/user-attachments/assets/6f1e5be1-255b-4452-bb7e-49653c2fd16f)
 
 7. **Soft Delete Product**: `DELETE /products/:id`
-![image](https://github.com/user-attachments/assets/162f652a-4f52-433c-bdc5-208d37448914)
+![image](https://github.com/user-attachments/assets/798f4887-c42a-409a-a012-b547b01b56d7)
 
 
 #### **Orders**
 1. **Create Order**: `POST /orders`
-![image](https://github.com/user-attachments/assets/9799a3e6-cf7d-4d14-ab29-1083fc0ab24e)
+![image](https://github.com/user-attachments/assets/0a0f37a2-07d8-43f1-a95c-0cab4bfde372)
 
 3. **Get Order Details**: `GET /orders/:id`
-![image](https://github.com/user-attachments/assets/4c28557d-a42b-44da-9739-4aa7bcef70b5)
+![image](https://github.com/user-attachments/assets/074db236-172f-4888-98c8-bc54ce8fdae2)
 
 5. **List Orders**: `GET /orders?page=1&limit=10`
-![image](https://github.com/user-attachments/assets/35bb6cd5-9063-481e-9695-4c5ad7f6c8f8)
+![image](https://github.com/user-attachments/assets/eefb4541-e80e-4f3f-a094-047cc18b69d3)
 
 
 
