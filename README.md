@@ -130,16 +130,29 @@ Server is running on http://localhost:3000
 
 #### **Products**
 1. **Create Product**: `POST /products`
-2. **Update Product**: `PUT /products/:id`
-3. **List Products**: `GET /products?page=1&limit=10&search=term`
-4. **Soft Delete Product**: `DELETE /products/:id`
+![image](https://github.com/user-attachments/assets/1b64f9f3-66e6-4c29-8935-57de1274fe6a)
+
+3. **Update Product**: `PUT /products/:id`
+![image](https://github.com/user-attachments/assets/00579516-a985-4daf-aa3e-97453612b331)
+
+5. **List Products**: `GET /products?page=1&limit=10&search=term`
+![image](https://github.com/user-attachments/assets/70039496-79c0-48dd-8616-12b77dd8f198)
+
+7. **Soft Delete Product**: `DELETE /products/:id`
+![image](https://github.com/user-attachments/assets/162f652a-4f52-433c-bdc5-208d37448914)
+
 
 #### **Orders**
 1. **Create Order**: `POST /orders`
-2. **Get Order Details**: `GET /orders/:id`
-3. **List Orders**: `GET /orders?page=1&limit=10`
+![image](https://github.com/user-attachments/assets/9799a3e6-cf7d-4d14-ab29-1083fc0ab24e)
 
-Refer to the [API Documentation](#) for detailed request and response formats.
+3. **Get Order Details**: `GET /orders/:id`
+![image](https://github.com/user-attachments/assets/4c28557d-a42b-44da-9739-4aa7bcef70b5)
+
+5. **List Orders**: `GET /orders?page=1&limit=10`
+![image](https://github.com/user-attachments/assets/35bb6cd5-9063-481e-9695-4c5ad7f6c8f8)
+
+
 
 ---
 
