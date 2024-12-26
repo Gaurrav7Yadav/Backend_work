@@ -1,0 +1,21 @@
+{
+  "name": "flobiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "mongoose": "^8.9.2",
+    "mysql2": "^3.12.0",
+    "nodemon": "^3.1.9",
+    "parser": "^0.1.4"
+  }
+}
